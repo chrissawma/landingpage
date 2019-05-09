@@ -1,0 +1,185 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    
+
+}
+.background {
+    position: relative;   
+    height: 100vh;
+    width: auto;
+}
+ 
+
+#sunset {
+    position: absolute;
+    width: 100vw;
+}
+
+ #navi{
+    background-color: rgb(255, 178, 13, 0.87);
+
+}
+.nav-item {
+    font-weight: 900;
+}
+#a {
+    height: 100vh;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.contenta {
+    text-align: center;
+    width: 100%;
+    top: 35%;
+    position: absolute;
+}
+
+.contenta > #sawma{
+    color: rgba(253, 126, 104, 0.67);
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.welcome {
+    width: 100%;
+    height: 95vh;
+    background-color: white;
+}
+
+.welcome2 {
+    background-color: red;
+    width: 100%;
+}
+
+#b {
+    height: 100vh;
+    background-color: aliceblue;
+    position: relative;
+}
+
+
+
+
+.contentb {
+    text-align: center;
+    width: 100%;
+    left: 25%;
+    top: 29%;
+    position: absolute;
+}
+.contentb > #gitt{
+    color: rgba(0, 245, 171, 0.47);
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Caveat', cursive;
+
+}
+.contentb > #smile {
+    position: absolute;
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    top: 25%;
+    left: -10%;
+}
+
+
+#c {
+    height: 100vh;
+    background-color: aliceblue;
+    position: relative;
+}
+.contentc {
+    text-align: center;
+    width: 100%;
+    left: 25%;
+    top: 19%;
+    position: absolute;
+}
+.contentc > #linkedinn{
+    color: rgba(0, 195, 255, 0.53);
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Pacifico', cursive;
+
+}
+.contentc > #smilehard {
+    position: relative;
+    background-color: aliceblue rgba(255, 255, 255, 0.77);
+    overflow: hidden;
+    border: 1px solid gray;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    top: 25%;
+    left: -10%;
+    display: none;
+}
+.contentc > img {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid rgba(89, 255, 205, 0.8);
+    top: 25%;
+    right: 40%;
+    
+}
+
+
+#d {
+    height: 100vh;
+    position: relative;
+}
+.contentd > #me {
+    width: 100vw;
+}
+.contentd {
+    text-align: center;
+    width: 100%;
+    left: 25%;
+    top: 29%;
+    position: absolute;
+}
+.contentd > #bio {
+    position: absolute;
+    top: 25%;
+    text-align: center;
+    font-family: 'Hind Vadodara', sans-serif;
+
+}
+
+
+
+
+#e {
+    height: 100vh;
+    position: relative;
+}
+.contente {
+    text-align: center;
+    width: 100%;
+    left: 25%;
+    top: 29%;
+    position: absolute;
+}
+.contente > #fin {
+    color: rgba(83, 71, 241, 0.47);
+    font-size: 150px;
+    font-weight: 200px;
+    font-family: 'VT323', monospace;
+}
+
+
+
